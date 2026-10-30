@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Chandan Kumar
 
-<!--
-**chandank7766/chandank7766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack MERN Developer | B.Tech CSE Student
 
-Here are some ideas to get you started:
+I'm a passionate Computer Science student and aspiring Full Stack MERN Developer. I love building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on Full Stack Web Development.
+- 🌱 Learning and exploring advanced MERN Stack technologies.
+- 💻 Interested in Web Development, Software Engineering & Problem Solving.
+- 🎯 Goal: To become a skilled Full Stack Developer.
+- ⚡ Always ready to learn new technologies and build innovative projects.
+
+### 🛠️ Tech Stack & Skills
+
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap
+- Tailwind CSS
+
+**Backend Development**
+- Node.js
+- Express.js
+- REST APIs
+
+**Database**
+- MongoDB
+- MySQL
+
+**Programming Languages**
+- JavaScript
+- Python
+- Java
+- C
+- C++
+
+**Tools & Technologies**
+- Git & GitHub
+- VS Code
+- Postman
+- npm
+
+### 💻 MERN Stack Developer
+
+MongoDB | Express.js | React.js | Node.js
+
+### 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/chandan-kumar-39535233a
+- 📧 Email: kumarchandan52090@gmail.com
+
+### 🎯 My Developer Mindset
+
+"Code. Learn. Build. Repeat. 🚀"
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
